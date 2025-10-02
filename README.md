@@ -1,2 +1,2 @@
-# Klafisikasi_Jeruk_Faiz_Kece
+# Klafisikasi_Jeruk_Khaifara
 This is an interactive website with streamlit about the types of oranges.
