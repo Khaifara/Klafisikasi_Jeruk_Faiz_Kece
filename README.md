@@ -1,10 +1,10 @@
 # Klafisikasi_Jeruk_Khaifara
 This is an interactive website with streamlit about the types of oranges.
 - Step by Step
-- lakukan load dataset
-- lakukan exploratory data analysis (EDA)
-- buat visualisasi menggunakan scatter plot
-- lakukan pembuatan model machine learning menggunakan LogisticRegression
-- tampilkan hasil prediksi
-- simpan model
-- buat aplikasi web menggunakan Streamlit
+- Load the dataset
+- Perform exploratory data analysis (EDA)
+- Create a visualization using a scatter plot
+- Create a machine learning model using Logistic Regression
+- Display the prediction results
+- Save the model
+- Create a web application using Streamlit
